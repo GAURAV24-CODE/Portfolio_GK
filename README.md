@@ -1,7 +1,7 @@
 # AI_ML_DETAILED
 # 🤖 AI/ML Engineer Bootcamp (45 Days)
 
-Welcome to my **45-Day AI/ML Engineer Bootcamp** repository! 🚀
+Welcome to my **45-Day AI/ML Engineer Bootcamp** repository! 🚀 gaurav kumbhar
 
 This repository documents my complete journey of becoming an **AI Engineer, Machine Learning Engineer, and Data Scientist** through daily hands-on practice, projects, assignments, and interview preparation.
 
