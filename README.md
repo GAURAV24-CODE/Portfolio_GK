@@ -13,7 +13,7 @@ Currently, I'm pursuing my MCA (2nd Year) and continuously building my skills th
 - 🎓 MCA — 2nd Year
 - 🎓 BCA Graduate
 - 📊 Data Science Course — DataMites, Pune
-- 💻 Interested in Data Analytics, Data Science & Machine Learning
+- 💻 Interested in Data Analytics, Data Science & Machine Learnin
 - 🐍 Strong interest in Python-based data analysis
 - 📈 Building interactive dashboards using Power BI & Excel
 - 🗄️ Learning and practicing SQL & Database Management
